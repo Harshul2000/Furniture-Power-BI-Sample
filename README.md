@@ -7,7 +7,7 @@ Here, I have created a sample of a dashboard of sales of different types of Furn
 
 
 
-<img src="data/excel_image.jpg" height="240" >
+<img src="data/Furniture Screenshot.png" height="240" >
 
 ## Requirements
 * Microsoft Power BI
